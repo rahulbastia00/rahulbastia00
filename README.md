@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/your-gif-link-here/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw10rrRGUtlIX3mtGPqncdNh&ust=1764436885682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD1zYCulZEDFQAAAAAdAAAAABAE)" width="400"/>
+  <img src="[[[https://media.giphy.com/media/your-gif-link-here/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw10rrRGUtlIX3mtGPqncdNh&ust=1764436885682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD1zYCulZEDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw10rrRGUtlIX3mtGPqncdNh&ust=1764436885682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD1zYCulZEDFQAAAAAdAAAAABAE)](https://i.redd.it/n8agw6z2smyb1.gif)" width="400"/>
 </p>
 
 # 💫 About Me:
