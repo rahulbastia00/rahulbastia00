@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/your-gif-link-here/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw10rrRGUtlIX3mtGPqncdNh&ust=1764436885682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD1zYCulZEDFQAAAAAdAAAAABAE)" width="400"/>
+</p>
+
 # 💫 About Me:
 Hi, I’m Rahul Bastia 👋<br>I’m passionate about building real-world AI solutions.<br>Currently working on a robotic arm that can automatically pick and place objects using learning from human actions.<br>I love creating useful projects and exploring how AI can solve everyday problems.<br>Right now, I’m learning more about large language models and advanced machine learning.<br><br>Always open to learning, building, and collaborating 🚀
 
